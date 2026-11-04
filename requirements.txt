@@ -1,0 +1,7 @@
+scikit-learn>=1.3
+numpy
+pandas
+pytest
+streamlit>=1.50  # for app.py
+anthropic        # only for the Claude extractor (VOC_BACKEND=llm)
+# google-play-scraper   # only for scripts/fetch_play_store.py

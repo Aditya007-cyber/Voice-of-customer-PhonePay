@@ -1,0 +1,2389 @@
+{
+ "re_20260924_0000": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260909_0001": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20260907_0002": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261011_0003": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ti_20261024_0004": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260911_0005": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "ap_20260908_0006": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261005_0007": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260929_0008": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20261005_0009": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261029_0010": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261012_0011": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260926_0012": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "pl_20260917_0013": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261014_0014": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "ti_20260916_0015": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "re_20261004_0016": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "wh_20261003_0017": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260913_0018": {
+  "categories": [
+   "app_performance",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261026_0019": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260919_0020": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20261013_0021": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "pl_20260912_0022": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20260920_0023": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261020_0024": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": true
+ },
+ "in_20260920_0025": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20260913_0026": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "pl_20260904_0027": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "re_20260922_0028": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ap_20260910_0029": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261027_0030": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261003_0031": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260906_0032": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261006_0033": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261011_0034": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "sa_20261007_0035": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ap_20261014_0036": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": true
+ },
+ "ti_20261016_0037": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261017_0038": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "ti_20261017_0039": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "pl_20260917_0040": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "ap_20260904_0041": {
+  "categories": [
+   "payment_failure",
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "in_20261029_0042": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "wh_20261023_0043": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20261015_0044": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261004_0045": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261022_0046": {
+  "categories": [],
+  "churn": false
+ },
+ "sa_20261030_0047": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260909_0048": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "ap_20260929_0049": {
+  "categories": [
+   "customer_support",
+   "fraud_scam"
+  ],
+  "churn": true
+ },
+ "re_20260912_0050": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20260924_0051": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20260918_0052": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "pl_20260918_0053": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "pl_20260905_0054": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260914_0055": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": true
+ },
+ "wh_20261030_0056": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ap_20260909_0057": {
+  "categories": [
+   "merchant_qr",
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "wh_20260927_0058": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "ap_20260905_0059": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "pl_20260924_0060": {
+  "categories": [
+   "payment_failure",
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "wh_20260910_0061": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260922_0062": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "pl_20260919_0063": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20260916_0064": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20260920_0065": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ap_20260910_0066": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20260930_0067": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261023_0068": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "ti_20260928_0069": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "sa_20261013_0070": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "sa_20260906_0071": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260923_0072": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "pl_20260929_0073": {
+  "categories": [
+   "payment_failure",
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261013_0074": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "ap_20260920_0075": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ti_20261024_0076": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261008_0077": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "pl_20261020_0078": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260907_0079": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260927_0080": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "re_20261015_0081": {
+  "categories": [
+   "merchant_qr",
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ap_20260913_0082": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "in_20261028_0083": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261021_0084": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ti_20260919_0085": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "wh_20261028_0086": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "pl_20261010_0087": {
+  "categories": [],
+  "churn": false
+ },
+ "sa_20261021_0088": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "pl_20261004_0089": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261028_0090": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260922_0091": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260922_0092": {
+  "categories": [],
+  "churn": false
+ },
+ "in_20260926_0093": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "re_20261003_0094": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20261002_0095": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ap_20261020_0096": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261016_0097": {
+  "categories": [
+   "app_performance",
+   "fraud_scam"
+  ],
+  "churn": true
+ },
+ "pl_20261003_0098": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261015_0099": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "re_20261007_0100": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20260910_0101": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261014_0102": {
+  "categories": [
+   "payment_failure",
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "wh_20261015_0103": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20261019_0104": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "pl_20260923_0105": {
+  "categories": [
+   "refund_delay",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "in_20261024_0106": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "pl_20261009_0107": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "ti_20261027_0108": {
+  "categories": [
+   "onboarding_bank_linking",
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261005_0109": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261026_0110": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "wh_20261011_0111": {
+  "categories": [
+   "rewards_cashback",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "re_20260917_0112": {
+  "categories": [
+   "payment_failure",
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "ti_20261005_0113": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "pl_20261023_0114": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "ti_20261004_0115": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "re_20260922_0116": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "sa_20261020_0117": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ti_20261023_0118": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20261012_0119": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "ap_20261028_0120": {
+  "categories": [
+   "onboarding_bank_linking",
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "pl_20261011_0121": {
+  "categories": [
+   "refund_delay",
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "re_20261029_0122": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": true
+ },
+ "in_20261011_0123": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "re_20261028_0124": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "wh_20261028_0125": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20260907_0126": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261022_0127": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "in_20260914_0128": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20261014_0129": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261025_0130": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20260920_0131": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": true
+ },
+ "ap_20261025_0132": {
+  "categories": [
+   "app_performance",
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261030_0133": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ti_20261027_0134": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20260906_0135": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20260922_0136": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "pl_20260910_0137": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260911_0138": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261026_0139": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ap_20261026_0140": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "wh_20260918_0141": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20261013_0142": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260923_0143": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261030_0144": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20261009_0145": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "pl_20261009_0146": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261021_0147": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ti_20261021_0148": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "re_20260930_0149": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20260929_0150": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "wh_20260909_0151": {
+  "categories": [
+   "refund_delay",
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260928_0152": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "pl_20260930_0153": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "in_20261018_0154": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "ti_20261018_0155": {
+  "categories": [
+   "kyc_limits",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260930_0156": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260921_0157": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261030_0158": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20260906_0159": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261030_0160": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260915_0161": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261003_0162": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261019_0163": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20260923_0164": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ti_20261008_0165": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ap_20260908_0166": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260921_0167": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261012_0168": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261001_0169": {
+  "categories": [
+   "customer_support",
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "wh_20261007_0170": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "wh_20261005_0171": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260909_0172": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261015_0173": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261027_0174": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20260923_0175": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261021_0176": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260926_0177": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "sa_20260915_0178": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261027_0179": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20260923_0180": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260916_0181": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260922_0182": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20261010_0183": {
+  "categories": [
+   "upi_pin_auth",
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "sa_20261029_0184": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20261018_0185": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "sa_20261009_0186": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261028_0187": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261023_0188": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261013_0189": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261026_0190": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "in_20260915_0191": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ti_20260908_0192": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20260912_0193": {
+  "categories": [
+   "upi_pin_auth",
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ap_20260928_0194": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ti_20261024_0195": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260926_0196": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "ti_20261002_0197": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260923_0198": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "pl_20260917_0199": {
+  "categories": [
+   "refund_delay",
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "pl_20260905_0200": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20260920_0201": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260926_0202": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "ap_20261009_0203": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260905_0204": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "wh_20260926_0205": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": true
+ },
+ "pl_20260907_0206": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "wh_20260923_0207": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "ti_20260917_0208": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ti_20260910_0209": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261011_0210": {
+  "categories": [
+   "payment_failure",
+   "merchant_qr"
+  ],
+  "churn": true
+ },
+ "ap_20261007_0211": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ti_20260921_0212": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "pl_20261022_0213": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261026_0214": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261004_0215": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "re_20261028_0216": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "pl_20260915_0217": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261016_0218": {
+  "categories": [
+   "kyc_limits",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "re_20260904_0219": {
+  "categories": [
+   "rewards_cashback",
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261019_0220": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "sa_20260908_0221": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20260910_0222": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "re_20261008_0223": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": true
+ },
+ "pl_20261026_0224": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "sa_20260928_0225": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ap_20260912_0226": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "pl_20260930_0227": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "re_20260912_0228": {
+  "categories": [],
+  "churn": false
+ },
+ "sa_20261025_0229": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20260907_0230": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "in_20261019_0231": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261003_0232": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "in_20261022_0233": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20260912_0234": {
+  "categories": [
+   "merchant_qr",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260911_0235": {
+  "categories": [
+   "payment_failure",
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20260914_0236": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": true
+ },
+ "pl_20260924_0237": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": true
+ },
+ "pl_20261030_0238": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20260905_0239": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20261026_0240": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260906_0241": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "sa_20260908_0242": {
+  "categories": [],
+  "churn": false
+ },
+ "wh_20261011_0243": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ti_20261026_0244": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "re_20260929_0245": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261024_0246": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "wh_20260922_0247": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261017_0248": {
+  "categories": [],
+  "churn": false
+ },
+ "wh_20260923_0249": {
+  "categories": [
+   "ux_features",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260912_0250": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "wh_20261005_0251": {
+  "categories": [],
+  "churn": false
+ },
+ "wh_20261020_0252": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261014_0253": {
+  "categories": [],
+  "churn": false
+ },
+ "wh_20261025_0254": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ap_20260914_0255": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20260929_0256": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20260913_0257": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "ap_20261002_0258": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": true
+ },
+ "re_20260914_0259": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261016_0260": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "pl_20260918_0261": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261012_0262": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261002_0263": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "sa_20260917_0264": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "pl_20261011_0265": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "pl_20261017_0266": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261023_0267": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260908_0268": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20261021_0269": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ap_20261028_0270": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261025_0271": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261023_0272": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20261010_0273": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20261025_0274": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20261009_0275": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "re_20260908_0276": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20260929_0277": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260911_0278": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20260921_0279": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261013_0280": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261024_0281": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261023_0282": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20261003_0283": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ti_20260915_0284": {
+  "categories": [
+   "customer_support",
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "pl_20261008_0285": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260915_0286": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20261013_0287": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260907_0288": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261029_0289": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20260910_0290": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": true
+ },
+ "pl_20261001_0291": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261006_0292": {
+  "categories": [
+   "fraud_scam",
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "pl_20261025_0293": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20261014_0294": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "in_20261028_0295": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20260912_0296": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "sa_20261013_0297": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": true
+ },
+ "pl_20261010_0298": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "pl_20260913_0299": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261021_0300": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261007_0301": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "sa_20261001_0302": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261025_0303": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": true
+ },
+ "ti_20261021_0304": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": true
+ },
+ "re_20261015_0305": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ti_20260927_0306": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "ap_20260916_0307": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "in_20260905_0308": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260914_0309": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261022_0310": {
+  "categories": [
+   "rewards_cashback",
+   "refund_delay"
+  ],
+  "churn": true
+ },
+ "sa_20260916_0311": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": true
+ },
+ "pl_20260917_0312": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261003_0313": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20260915_0314": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261001_0315": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "re_20261023_0316": {
+  "categories": [
+   "payment_failure",
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ti_20260906_0317": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260914_0318": {
+  "categories": [
+   "app_performance",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "wh_20261021_0319": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261028_0320": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "sa_20260918_0321": {
+  "categories": [
+   "refund_delay",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260928_0322": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "ap_20261024_0323": {
+  "categories": [
+   "rewards_cashback",
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261025_0324": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261004_0325": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "wh_20260905_0326": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261024_0327": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "wh_20261016_0328": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "ap_20261006_0329": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20260918_0330": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261011_0331": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "pl_20260913_0332": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "re_20260914_0333": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "wh_20261027_0334": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20260908_0335": {
+  "categories": [
+   "onboarding_bank_linking",
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "pl_20260914_0336": {
+  "categories": [
+   "fraud_scam"
+  ],
+  "churn": false
+ },
+ "ap_20261025_0337": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": true
+ },
+ "pl_20260905_0338": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20260923_0339": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": true
+ },
+ "ti_20261021_0340": {
+  "categories": [
+   "onboarding_bank_linking",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260927_0341": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "pl_20261007_0342": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ },
+ "pl_20261005_0343": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260924_0344": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "in_20260921_0345": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "sa_20260921_0346": {
+  "categories": [
+   "app_performance",
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "re_20261023_0347": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "pl_20260926_0348": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261015_0349": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "pl_20261023_0350": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "ti_20260920_0351": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20260914_0352": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260922_0353": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20260923_0354": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "re_20260910_0355": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": false
+ },
+ "in_20260904_0356": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "wh_20261017_0357": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260911_0358": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20260920_0359": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261020_0360": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "pl_20261011_0361": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261001_0362": {
+  "categories": [
+   "refund_delay"
+  ],
+  "churn": true
+ },
+ "ti_20261005_0363": {
+  "categories": [
+   "customer_support",
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "ti_20260919_0364": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "sa_20260929_0365": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20260928_0366": {
+  "categories": [],
+  "churn": false
+ },
+ "re_20261004_0367": {
+  "categories": [],
+  "churn": false
+ },
+ "ti_20261024_0368": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ti_20261018_0369": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "ti_20261019_0370": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20261015_0371": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20261001_0372": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20260929_0373": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "ti_20261024_0374": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": true
+ },
+ "ti_20260925_0375": {
+  "categories": [
+   "payment_failure",
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "re_20260921_0376": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ti_20261001_0377": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260911_0378": {
+  "categories": [],
+  "churn": false
+ },
+ "sa_20260910_0379": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "wh_20260917_0380": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261007_0381": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "ti_20261025_0382": {
+  "categories": [
+   "merchant_qr",
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "ap_20261019_0383": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "re_20261027_0384": {
+  "categories": [
+   "onboarding_bank_linking",
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "ti_20260918_0385": {
+  "categories": [],
+  "churn": false
+ },
+ "ap_20261017_0386": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20261009_0387": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20261022_0388": {
+  "categories": [
+   "app_performance",
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20261029_0389": {
+  "categories": [
+   "onboarding_bank_linking",
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261025_0390": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "ti_20260918_0391": {
+  "categories": [
+   "refund_delay",
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ap_20260917_0392": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "pl_20261010_0393": {
+  "categories": [
+   "upi_pin_auth"
+  ],
+  "churn": false
+ },
+ "re_20261018_0394": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260916_0395": {
+  "categories": [
+   "payment_failure",
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "pl_20261029_0396": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "pl_20261025_0397": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "ap_20260904_0398": {
+  "categories": [
+   "customer_support",
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20260918_0399": {
+  "categories": [
+   "kyc_limits"
+  ],
+  "churn": false
+ },
+ "ap_20261003_0400": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261004_0401": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": true
+ },
+ "pl_20260925_0402": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260909_0403": {
+  "categories": [
+   "merchant_qr"
+  ],
+  "churn": false
+ },
+ "in_20260928_0404": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "ti_20260913_0405": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": true
+ },
+ "in_20261019_0406": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261025_0407": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20260922_0408": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "pl_20260923_0409": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": true
+ },
+ "pl_20261014_0410": {
+  "categories": [
+   "onboarding_bank_linking"
+  ],
+  "churn": false
+ },
+ "wh_20261012_0411": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": true
+ },
+ "re_20260927_0412": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261004_0413": {
+  "categories": [
+   "ux_features"
+  ],
+  "churn": false
+ },
+ "pl_20261006_0414": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261019_0415": {
+  "categories": [
+   "customer_support"
+  ],
+  "churn": false
+ },
+ "ap_20260909_0416": {
+  "categories": [
+   "app_performance"
+  ],
+  "churn": false
+ },
+ "pl_20261028_0417": {
+  "categories": [],
+  "churn": false
+ },
+ "pl_20261002_0418": {
+  "categories": [
+   "payment_failure"
+  ],
+  "churn": false
+ },
+ "sa_20260927_0419": {
+  "categories": [
+   "rewards_cashback"
+  ],
+  "churn": false
+ }
+}

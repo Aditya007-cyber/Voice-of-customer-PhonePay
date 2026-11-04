@@ -1,0 +1,6 @@
+Real public App Store reviews of the PhonePe app (India storefront).
+Fetched 2026-11-04 from Apple's public customer-reviews feed, pages 1-2, most recent first:
+  https://itunes.apple.com/in/rss/customerreviews/page={1,2}/id=1170055821/sortBy=mostRecent/json
+100 reviews dated 2026-10-29 to 2026-11-03. Reviewer names and profile links were not stored.
+Timestamps are the feed's own clock (UTC-7). This is a recent slice, not a representative sample of all users.
+Unaffiliated with PhonePe. Add more with the 'Fetch real reviews' button in app.py or voc/fetch.py.
